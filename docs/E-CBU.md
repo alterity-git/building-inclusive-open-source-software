@@ -324,4 +324,3 @@ We dearly hope it was somewhat useful to you. We feel that there is a lack of re
 
     [Qt. *Qt's documentation of QAccessibleInterface Class*](https://doc.qt.io/qt-6/qaccessibleinterface.html)
 
-    [Typevar. Enhancing Accessibility with QAccessibleInterface in Qt Applications ](https://typevar.dev/en/docs/qt/qaccessibleinterface)

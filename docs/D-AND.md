@@ -73,7 +73,7 @@ Display and text sizes might vary dramatically based on user needs. Making your 
 
 Captions can easily be implemented in your Android app for media content. Refer to the APPT documentation for details (Jetpack Compose: [standard](https://appt.org/en/docs/jetpack-compose/samples/captions), [live](https://appt.org/en/docs/jetpack-compose/samples/live-captions); XML: [standard](https://appt.org/en/docs/android/samples/captions), [live](https://appt.org/en/docs/android/samples/live-captions)).
 
-### Reduce animations
+### Reduced animations
 
 Some users prefer or need to reduce animations. While Android doesn't directly indicate through the API whether the user has the option activated or not, you can determine it with [this little workaround](https://appt.org/en/docs/android/samples/reduced-animations). Stopping automatic and repeating animations, as well as flashes or blinkings, zooms and parallax effects is crucial to make sure users can use your app safely and comfortably.
 

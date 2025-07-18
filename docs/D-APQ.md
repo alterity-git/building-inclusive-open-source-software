@@ -107,11 +107,13 @@ ListView {
 
 ## The AccessibleInterface Class
 
-The [QAccessibleInterface Class](https://doc.qt.io/qt-6/qaccessibleinterface.html) is useful to create inclusive user interfaces. It implements a pure virtual API that allows assistive technologies like braille displays or screen readers to directly access information about accessible objects. We have less experience with it as we haven't implemented it on applications we are working on yet. You can find very comprehensive information about it in [this typevar article](https://typevar.dev/en/docs/qt/qaccessibleinterface)
+The [QAccessibleInterface Class](https://doc.qt.io/qt-6/qaccessibleinterface.html) is useful to create inclusive user interfaces. It implements a pure virtual API that allows assistive technologies like braille displays or screen readers to directly access information about accessible objects. We have less experience with it as we haven't implemented it on applications we are working on yet.
 
 ## Sources
 [Qt's documentation of QAccessible Class](https://doc.qt.io/qt-6/qaccessible.html#Role-enum)
+
 [Qt's documentation of QAccessible::Role](https://doc.qt.io/qt-6/qaccessible.html?search=item#Role-enum)
+
 [Qt's documentation of KeyNavigation class](https://doc.qt.io/qt-6/qml-qtquick-keynavigation.html#details)
+
 [Qt's documentation of QAccessibleInterface Class](https://doc.qt.io/qt-6/qaccessibleinterface.html)
-[Enhancing Accessibility with QAccessibleInterface in Qt Applications ](https://typevar.dev/en/docs/qt/qaccessibleinterface)
