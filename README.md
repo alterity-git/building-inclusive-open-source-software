@@ -55,5 +55,9 @@ If you need any help incorporating your work in ours, please feel free to open a
 
 This project is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). This means that you are free to share, adapt and use its content (even for commercial use). **Please note that when doing so you need to give appropriate credit and to release your version under the same license, indicating if changes were made.**
 
+## Disclaimer
+
+The view presented in this training solely engage the originals authors. They don't represent the positioning of Olvid and Jami and don't engage them in any way.
+
 # Resources
 [The editable file of how to navigate this training](resources/navigateThroughTheTrainingV2.crswap)
