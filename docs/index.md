@@ -27,7 +27,9 @@ These modules should not be seen as holding the truth regarding the subjects tac
 
     ## Resources
     [The editable file of how to navigate this training](resources/navigateThroughTheTrainingV2.crswap)
+    
     [The slides (pdf)](slides/slides.pdf)
+    
     [The slides (odp)](slides/slides.odp)
 
 === "Where does it come from?"
