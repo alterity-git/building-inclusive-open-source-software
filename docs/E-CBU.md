@@ -136,7 +136,7 @@ We dearly hope it was somewhat useful to you. We feel that there is a lack of re
 
     [WillowTree. Contrast Plugin](https://www.figma.com/community/plugin/748533339900865323/contrast)
 
-    ### Articles, book and masterclasses
+    ### Articles, books and masterclasses
 
     [Winner, Langdon. *Do artifacts have politics?*, 1980. Daedalus 109 (1): pp. 121--136.](https://faculty.cc.gatech.edu/~beki/cs4001/Winner.pdf)
 
@@ -326,4 +326,3 @@ We dearly hope it was somewhat useful to you. We feel that there is a lack of re
     [Qt. *Qt's documentation of KeyNavigation class*](https://doc.qt.io/qt-6/qml-qtquick-keynavigation.html#details)
 
     [Qt. *Qt's documentation of QAccessibleInterface Class*](https://doc.qt.io/qt-6/qaccessibleinterface.html)
-
