@@ -22,7 +22,7 @@ Please note that the navigation instructions are only *recommendations*. While t
 
 ## Where does it come from?
 
-This project started out as we - Page Magnier--Slimani ([Jami](https://jami.net/)/[Savoir-Faire Linux](https://savoirfairelinux.com)) and Maxence Vahedi ([Olvid](https://olvid.io)) - struggled with the lack of awareness and specific resources on accessible and inclusive applicative development. We therefore began this collaborative project, which goal is to provide accessibility and inclusiveness resources to our teams and to the FOSS community.
+This project started out as we - Page Magnier Slimani ([Jami](https://jami.net/)/[Savoir-Faire Linux](https://savoirfairelinux.com)) and Maxence Vahedi ([Olvid](https://olvid.io)) - struggled with the lack of awareness and specific resources on accessible and inclusive applicative development. We therefore began this collaborative project, which goal is to provide accessibility and inclusiveness resources to our teams and to the FOSS community.
 
 Please note that we are not accessibility or inclusiveness experts, but passionate people who did their best to provide relevant content and who will be happy to get *any* feedback or contribution you may have! The applications we are working on at the time of writing are not perfect by any means from an inclusiveness standpoint. With this project, we only try to provide some answers to the questions we had when beginning our work on accessibility and inclusiveness.
 
